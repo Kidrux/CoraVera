@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944523459030",
+    "project_id": "coravera-7549b",
+    "storage_bucket": "coravera-7549b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944523459030:android:43664b8b36068ccc600c77",
+        "android_client_info": {
+          "package_name": "com.inndi.coravera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlyTvZlvIlj08YN55f6SpPqzWpOWtZXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
